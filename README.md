@@ -30,7 +30,7 @@ useful utilities.
     * [Random](doc/random.md) defines a random number generator package with various distributions.
     * Finally useful [utility](doc/utility.md) functions are provided for easy handling of torch tensor types and class inheritance.
 
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 This is a WTF level README file!
 
