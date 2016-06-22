@@ -30,3 +30,25 @@ useful utilities.
     * [Random](doc/random.md) defines a random number generator package with various distributions.
     * Finally useful [utility](doc/utility.md) functions are provided for easy handling of torch tensor types and class inheritance.
 
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a WTF level README file!
+
+Here is what you need:
+
+to install this 
+```
+git clone https://github.com/torch/distro.git ~/torch 
+cd ~/torch;bash install-deps;
+```
+Till you see "==> Torch7's dependencies have been installed"
+```
+./install.sh
+```
+Till you see "Do you want to automatically prepend the Torch install location
+to PATH and LD_LIBRARY_PATH in your /home/steven/.bashrc? (yes/no)
+[yes] >>> "
+```
+source ~/.bashrc
+th
+```
